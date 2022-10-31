@@ -1,4 +1,7 @@
 # BIOS512-assignments
+
+:point_down: Link to each file
+
 * [BIOS512 Assignment #1 ](https://github.com/yjjjjxx/BIOS512-assignments/blob/main/01_BIOS512_assignment.ipynb)
 * [BIOS512 Assignment #2 ](https://github.com/yjjjjxx/BIOS512-assignments/blob/main/02_BIOS512_assignment.ipynb)
 * [BIOS512 Assignment #3 ](https://github.com/yjjjjxx/BIOS512-assignments/blob/main/03_BIOS512_assignment.ipynb)
